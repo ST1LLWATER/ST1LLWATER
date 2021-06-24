@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Js
 - 📫 How to reach me: Discord: STILLWATER;#4723
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Mitochondria Is The Powerhouse Of The Cell
+- ⚡ Fun fact: Mitochondria Is The Powerhouse Of The Cell;
 -->
