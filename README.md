@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Discord: STILLWATER;#4723**
 
-- ⚡ Fun fact **Yeah I'm Not Funny >_<**
+- ⚡ Fun fact **Yeah There's No Fun >_< :( **
 
 
 <h3 align="left">Languages and Tools:</h3>
