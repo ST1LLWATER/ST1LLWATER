@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Discord: STILLWATER;#4723**
 
-- ⚡ Fun fact **Yeah There's No Fun >_< :( **
+- ⚡ Fun fact **Yeah There's Nothing Fun >_< :( **
 
 <p>
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=st1llwater&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
