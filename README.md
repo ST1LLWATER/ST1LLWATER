@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **React, DSA, C++, C#, C, Js....**
+- 💬 Ask me about **React, DSA, C++, C#, C, Js**
 
 - 📫 How to reach me **Discord: STILLWATER;#4723**
 
