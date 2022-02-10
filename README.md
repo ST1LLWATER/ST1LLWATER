@@ -1,5 +1,5 @@
 <h1 align="center">Yo! , I'm Codename STILLWATER</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">A Developer ig</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=st1llwater&label=Profile%20views&color=0e75b6&style=flat" alt="st1llwater" /> </p>
 
