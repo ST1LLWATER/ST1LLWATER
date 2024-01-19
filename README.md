@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=st1llwater&label=Profile%20views&color=0e75b6&style=flat" alt="st1llwater" /> </p>
 
-- 💬 I Know Something About ** React, Vue, Next, Node, Nest, C++, C, Js**
+- 💬 I Know nothing About **my life**
 
-- 📫 How to reach me **Discord: STILLWATER;#4723**
+- 📫 How to reach me **just ask about me to anybody..i am very famous..dont you know me??? you fool!!**
 
-- ⚡ Fun fact **Yeah There's Nothing Fun >_< :( **
+- ⚡ Fun fact **I am tall, fair handsome and intelligent. everybody loves me..dont you? >_< :( **
 
 <p width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=st1llwater&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
