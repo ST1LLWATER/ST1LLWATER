@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=st1llwater&label=Profile%20views&color=0e75b6&style=flat" alt="st1llwater" /> </p>
 
-- 💬 I Know Something About **React, Vue, Next, Node, Nest, C++, C, Js**
+- 💬 I Know Something About **React, Vue, Next, Node, Nest, C++, C, Javascript, Onyx, Web-Scraping, PL/SQL, Bastiodon**
 
 - 📫 How to reach me **Discord: STILLWATER;#4723**
 
