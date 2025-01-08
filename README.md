@@ -5,7 +5,7 @@
 
 - 💬 I Know Something About **React, Vue, Next, Node, Nest, C++, C, Javascript, Onix, Web-Scraping, PL/SQL, Bastiodon**
 
-- 📫 How to reach me **Discord: STILLWATER;#4723**
+- 📫 How to reach me **Discord: stillwater_**
 
 - ⚡ Fun fact **Yeah There's Nothing Fun >_< :( **
 
